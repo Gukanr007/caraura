@@ -30,8 +30,9 @@
 - **Blockchain-based vehicle service records** for enhanced security.  
 
 ## 📷 Screenshots & UI/UX Design  
-![CarAura Logo](img/design1.png)
-![CarAura op1](img/design1.png)
-![CarAura op2](img/design1.png)
-![CarAura op3](img/design1.png)
+<img src="img/design1.png" alt="CarAura Logo" width="300">
+<img src="img/design2.png" alt="UI Design" width="500" height="300">
+<img src="img/design3.png" alt="UI Design" width="500" height="300">
+<img src="img/design4.png" alt="UI Design" width="500" height="300">
+
  
